@@ -1,6 +1,7 @@
-# LCD using pic
+# Automated door using pic
 
-Connceting LCD to pic and displaying a blinking messege!
+Auto door open when sense someone nearby and close after him !
+
 ## Authors
 
 - [@mina0matta](https://www.github.com/mina0matta)
